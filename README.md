@@ -20,3 +20,5 @@ builder.Services.AddDbContext<MoviesMinimalAPIDbContext>(options =>
         "Connection": "Server=*;Database=MoviesMinimalAPI;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=True"
 }
 ``` 
+
+[DeepWiki moraisLuismNet/MoviesMinimalAPI](https://deepwiki.com/moraisLuismNet/MoviesMinimalAPI)
